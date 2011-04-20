@@ -7,7 +7,7 @@
 == Usage
  $ ./greyscale_me.py 'this is my example' barcode.png
 
-http://github.com/jness/Greyscale-Me/blob/master/barcode.png
+https://github.com/jness/Greyscale-Me/raw/master/barcode.png
 
 == Reading a Image
  $ ./decipher_me.py barcode.png 
