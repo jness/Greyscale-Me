@@ -4,9 +4,6 @@
  your letters are transformed in to a color thanks to the use of 
  python's built in chr() and ord() functions.
 
- This is a type of Steganography
-http://en.wikipedia.org/wiki/Steganography
-
 == Usage
  $ ./greyscale_me.py 'this is my example' barcode.png
 
