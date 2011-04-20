@@ -8,7 +8,7 @@
  $ ./greyscale_me.py 'this is my example' barcode.png
 
 == What does it look like
- Image:: https://github.com/jness/Greyscale-Me/blob/master/barcode.png
+ Image:: http://github.com/jness/Greyscale-Me/blob/master/barcode.png
 
 == Reading a Image
  $ ./decipher_me.py barcode.png 
