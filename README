@@ -1,0 +1,9 @@
+== Greyscale Me v0.1
+ greyscale_me takes a string of text inputed from the command line
+ and creates a greyscale sort of barcode, to achieve this each of 
+ your letters are transformed in to a color thanks to the use of 
+ python's built in chr() function.
+
+== Usage
+ $ ./greyscale_me.py "This is my example" barcode.png
+
